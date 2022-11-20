@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc mừng ngày 20/11 ",
+    introTitle: 'Mẹ Vân ',
+    introDesc: `Bầu trời ngàn sao lấp lánh
+Lung linh ước vọng học trò
+Mái trường long lanh mắt sáng
+Ngời ngời ước vọng thầy cô`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Con chúc mẹ ngày 20/11 thật vui vẻ 🥰',
+    desc: 'Con biết giờ gần hết ngày rùi, nhưng con chúc mẹ luôn mạnh khỏe, luôn vui tươi, sẽ được đón những lứa học sinh ngoan và giỏi như con gái mẹ nhaaa. Và con chúc mẹ sẽ gặt hái được nhìu thành công trong sự nghiệp của mình <3 ',
+    btnYes: 'Mẹ cảm ơn con trai mẹ nhìu',
+    btnNo: 'Mẹ cảm ơn',
+    question: 'A great thanks to you! You are our teachers who give us recommendations and dreams to build our life',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Mẹ cảm ơn con nhìu nhaaa',
+    mess: 'Dạ hong có gì ajaaa <3',
+    messDesc: 'Con chúc mẹ ngủ ngonn ạaa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'file:///C:/Users/vu%20do/Desktop/yeubong.html' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
